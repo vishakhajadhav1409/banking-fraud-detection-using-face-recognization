@@ -1,0 +1,13 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+pgvector
+deepface
+# tensorflow
+opencv-python
+celery
+redis
+drf-yasg
+Pillow
+numpy
